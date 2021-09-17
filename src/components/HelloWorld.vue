@@ -1,32 +1,23 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <p>4everland撸币教程(web3.0赛道，未来可期)</p>
+    <p>一：使用github账户登录4EVERLAND官网：<a href="https://www.4everland.org/" target="_blank">https://www.4everland.org/</a>，github账号必须是9.8之前注册的,使用账号可以一键登录。</br><img src="../assets/1.jpg"></br><img src="../assets/2.jpg"></p>
+
+    <p>二：访问活动页面：<a href="https://hosting.4everland.org/#/?invite=OV9GGLIW" target="_blank">https://hosting.4everland.org/#/?invite=OV9GGLIW</a>,点击new project创建一个项目</br><img src="../assets/3.jpg"></p>
+
+    <p>三：然后点击Connect to Git，从自己的Github库或者右侧4EVERLAND提供的模板中选择一个项目进行创建。</br><img src="../assets/4.jpg"></p>
+
+    <p>四：设置参数，系统会自动帮你识别框架，点击Deploy</br><img src="../assets/5.jpg"></p>
+
+    <p>五：部署完成</br><img src="../assets/6.jpg"></p>
+    
+    <p>（最后步骤完成可获得1000个4EVER）Web3.0版块后面应该会有爆发，不要放过任何一个羊毛</p>
     <p>
-      For a guide and recipes on how to configure / customize this project,<br>
-      check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+    开始时间：9 月 15 日 0:00 (UTC)</br>
+    结束时间：10 月 7 日-10 月 14 日 不定时结束，尽量在7号前完成</br>
+    注意：必须要9.8号之前注册的github账号才能参与
     </p>
-    <h3>Installed CLI Plugins</h3>
-    <ul>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank" rel="noopener">babel</a></li>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint" target="_blank" rel="noopener">eslint</a></li>
-    </ul>
-    <h3>Essential Links</h3>
-    <ul>
-      <li><a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a></li>
-      <li><a href="https://forum.vuejs.org" target="_blank" rel="noopener">Forum</a></li>
-      <li><a href="https://chat.vuejs.org" target="_blank" rel="noopener">Community Chat</a></li>
-      <li><a href="https://twitter.com/vuejs" target="_blank" rel="noopener">Twitter</a></li>
-      <li><a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a></li>
-    </ul>
-    <h3>Ecosystem</h3>
-    <ul>
-      <li><a href="https://router.vuejs.org" target="_blank" rel="noopener">vue-router</a></li>
-      <li><a href="https://vuex.vuejs.org" target="_blank" rel="noopener">vuex</a></li>
-      <li><a href="https://github.com/vuejs/vue-devtools#vue-devtools" target="_blank" rel="noopener">vue-devtools</a></li>
-      <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
-      <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
-    </ul>
   </div>
 </template>
 
