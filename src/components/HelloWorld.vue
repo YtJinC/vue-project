@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>4everland撸币教程(web3.0赛道，未来可期)</p>
-    <p>一：使用github账户登录4EVERLAND官网：<a href="https://www.4everland.org/" target="_blank">https://www.4everland.org/</a>，github账号必须是9.8之前注册的,使用账号可以一键登录。</br><img src="../assets/1.jpg"></br><img src="../assets/2.jpg"></p>
+    <p>一：打开项目官网：<a href="https://hosting.4everland.org/#/?invite=OV9GGLIW" target="_blank">https://hosting.4everland.org/#/?invite=OV9GGLIW</a>,使用github账户登录4EVERLAND官网，github账号必须是9.8之前注册的,使用账号一键登录。</br><img src="../assets/11.jpg"></p>
 
     <p>二：访问活动页面：<a href="https://hosting.4everland.org/#/?invite=OV9GGLIW" target="_blank">https://hosting.4everland.org/#/?invite=OV9GGLIW</a>,点击new project创建一个项目</br><img src="../assets/3.jpg"></p>
 
@@ -16,7 +16,7 @@
     <p>
     开始时间：9 月 15 日 0:00 (UTC)</br>
     结束时间：10 月 7 日-10 月 14 日 不定时结束，尽量在7号前完成</br>
-    注意：必须要9.8号之前注册的github账号才能参与
+    注意：必须要9.8号之前注册的github账号才能参与，奖励会在活动结束后发放
     </p>
   </div>
 </template>
