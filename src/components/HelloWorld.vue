@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>4everland撸币教程(web3.0赛道，未来可期)</p>
-    <p>一：打开项目官网：<a href="https://hosting.4everland.org/#/?invite=OV9GGLIW" target="_blank">https://hosting.4everland.org/#/?invite=OV9GGLIW</a>,使用github账户登录4EVERLAND官网，github账号必须是9.8之前注册的,使用账号一键登录。</br><img src="../assets/11.jpg"></p>
+    <p>一：打开项目官网：<a href="https://hosting.4everland.org/#/?invite=OV9GGLIW" target="_blank">https://hosting.4everland.org/#/?invite=OV9GGLIW</a>,使用github账户登录4EVERLAND官网，github账号必须是9.8之前注册的,使用账号一键登录。</br><img src="../assets/11.png"></p>
 
     <p>二：访问活动页面：<a href="https://hosting.4everland.org/#/?invite=OV9GGLIW" target="_blank">https://hosting.4everland.org/#/?invite=OV9GGLIW</a>,点击new project创建一个项目</br><img src="../assets/3.jpg"></p>
 
