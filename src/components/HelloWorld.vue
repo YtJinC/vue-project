@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>优质资源,不定期更新,10月1日国庆更新：绝版资源，女主已经被抓</p>
-    <p><img src="../assets/7.png"></p>
+    <p><img src="../assets/7.jpg"></p>
 
     <p><img src="../assets/9.jpg"></p>
 
